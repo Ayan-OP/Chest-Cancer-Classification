@@ -162,4 +162,3 @@ cython_debug/
 #.idea/
 
 artifacts/*
-artifacts/data_ingestion/Data/test/squamous.cell.carcinoma/000118 (4).png
