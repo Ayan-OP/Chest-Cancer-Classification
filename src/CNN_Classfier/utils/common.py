@@ -34,7 +34,7 @@ def read_yaml(path_to_yaml: Path) -> ConfigBox:
     except BoxValueError:
         raise ValueError("yaml file is empty")
     except Exception as e:
-        raise e
+        raise e 
     
 
 
